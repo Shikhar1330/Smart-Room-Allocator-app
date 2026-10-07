@@ -1,6 +1,6 @@
 # SmartAlloc — Institutional Intelligence Engine
 
-A full-stack college room allocation system built with React, Node.js, Express, and MongoDB.
+A full-stack college room allocation system application built with React, Node.js, Express, and MongoDB.
 
 ---
 
